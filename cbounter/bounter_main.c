@@ -7,3 +7,8 @@
 //
 
 #include "bounter_main.h"
+
+int main() {
+	printf("In bounter main\n");
+	return 0;
+}
